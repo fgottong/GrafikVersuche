@@ -9,7 +9,6 @@ public class DrawingCanvas extends JComponent{
     public DrawingCanvas(int w,int h){
         width=w;
         height=h;
-
     }
 
     protected void paintComponent(Graphics g){
